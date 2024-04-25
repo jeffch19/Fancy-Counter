@@ -8,5 +8,15 @@ body {
   font-family: 'Inter', sans-serif;
   height: 100vh;
   background-image: radial-gradient(ellipse, #385300, #212900);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
+.counter {
+  background-color: #bef227;
+  width: 476px;
+  height:615px;
+  border-radius: 12px;
+  box-shadow: 0 25px 121px rgba(0,0,0,0.5)
+}
